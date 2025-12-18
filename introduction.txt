@@ -1,0 +1,8 @@
+Brief Introduction About Myself
+
+My name is ____. I am currently learning software engineering and DevOps concepts.
+I am interested in technology, problem solving, and building skills that will help me
+grow professionally.
+
+This repository is part of my learning journey using GitHub to manage projects and
+track my progress.
