@@ -1,1 +1,3 @@
-I have learned how to use GitHub to create repositories, add files, make commits, and understand how changes are tracked locally and online.
+What I have learned from this course
+
+I have learned how Git and GitHub work together. I now understand how to create repositories, make commits, push changes, and work with branches and pull requests.
