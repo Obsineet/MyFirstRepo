@@ -1,0 +1,1 @@
+I have learned how to use GitHub to create repositories, add files, make commits, and understand how changes are tracked locally and online.
